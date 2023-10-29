@@ -1,0 +1,74 @@
+{
+   "meals" : [
+    {
+        
+        "title" : " smokedsalmon crisps",
+        "chef" : "Thomas Keller",
+        "restaraunt" : "Napa Valley",
+        "location" :"California",
+        "likes" : 2,
+        "image" : "https://www.foodandwine.com/thmb/2HoTJtg2hmhrfSCzhJ0i0lZZafQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200807xl-smoked-salmon-crisps-2000-fd4103210e0c42bbbf646b8ac1486925.jpg"
+    },
+    {
+        "title" : "​Spanish-Style Pasta Salad with Tuna and Marinated Tomatoes",
+        "chef" : "Katie Buton",
+        "restaraunt" : "La Bodega",
+        "location" : "Asheville",
+        "likes" : 10 ,
+        "image" : "https://www.foodandwine.com/thmb/b9Nc1jkE3UCuEfU6IeLRe3qx0Vs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Spanish-Style-Pasta-Salad-with-Tuna-and-Marinated-Tomatoes-FT-RECIPE1022-2000-31403358c1094272a392771b9369351e.jpeg"
+        
+    },
+    {
+        "title" : "Brioche with Prosciutto, Gruyère, and Egg",
+        "chef" : "Suzanne Goin",
+        "restaraunt" : "A.O.C",
+        "location" : "Los Angeles",
+        "likes" : 6,
+        "image" : "https://www.foodandwine.com/thmb/zD2N8dEtjKuDg5TZRpl-rO4CrVY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HD-201303-r-brioche-with-prosciutto-gruyere-and-egg_0-b09acbf479284c0c90eda9908002f55a.jpg"
+
+    },
+    {
+        "title" : "Tuna Poke on Nori Crackers",
+        "chef" : "Ravi Kapur",
+        "restaraunt" : "Liholiho",
+        "location" : "San Francisco",
+        "likes" : 8 ,
+        "image" : "https://www.foodandwine.com/thmb/Iqq8ClkN5sAlB0kOKyhETCRKF_A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tuna-poke-on-nori-crackers-XL-RECIPE0716_1-024e5d3206714ae89d62d3fc64a9f49e.jpg"
+    },
+    {
+        "title" : "Louisiana Red Beans and Rice",
+        "chef" : "Kwame Onwuachi",
+        "restaraunt" : "Shaw Bijou",
+        "location" :  "Washington D.C.",
+        "likes" : 6 ,
+        "image" : "https://www.foodandwine.com/thmb/n2woX7JpOFsTgNFTYhzHLxdqXvM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Red-Beans-and-Rice-FT-2-RECIPE0522-151ea278491b4d9bacf96b3012f28015.jpg"
+        
+
+    },
+    {
+        "title" : "Black and White Pici Pasta with Squid and Shellfish",
+        "chef" : "Eli Kulp",
+        "restaraunt" : "Fork",
+        "location" : "Philadephia",
+        "likes" : 15 ,
+        "image" : "https://www.foodandwine.com/thmb/4lzQgXVaI9_gbKLgM9t0AS_pXFA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/201407-xl-black-and-white-pici-pasta-with-squid-and-shellfish-8e6e35ea7a1f4390b931703f0254d0f4.jpg"
+    },
+    {
+        "title" : "Chickpeas and Kale in Spicy Pomodoro",
+        "chef" :  "Missy Robbins",
+        "restaraunt" : "Lilia",
+        "location" :  "Brooklyn",
+        "likes" : 12,
+        "image" : "https://www.foodandwine.com/thmb/6-CWza6yAsWeXfhIzYXXLCI9OsM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chickpeas-and-kale-in-spicy-pomodoro-sauce-FT-RECIPE0217-7eb39eb2289c483f85f70ac4e242d09e.jpg"
+    },
+    {
+        "title" : "Black Cod with Miso",
+        "chef" : "Nobu Matsuhisa",
+        "restaraunt" : "Matsuhisa",
+        "location" : "Los Angeles",
+        "likes" : 16,
+        "image" : "https://www.foodandwine.com/thmb/u4kA0SZMhJPjcKSWML24WKHR5_Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BNCBOOK2013-XL-black-cod-miso_0-23af45c687d64f2f91ec1e308cd99597.jpg"
+    }
+
+   ] 
+}
